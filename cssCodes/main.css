@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.interest-section {
+    margin-top: 50px;
+}
+.interest-heading, .interest-parag {
+    text-align: center;
+}
+.interest-heading {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    text-align: center;
+    color: #163A24;
+}
+.interest-help {
+    margin-top: 20px;
+    display: flex;
+    align-items: top;
+    justify-content: space-around;
+}
+.interest-protect {
+    width: 353px;
+    height: 393px;
+    padding: 50px 55px;
+    background: #FBFAF7;
+    box-shadow: 5px 5px 20px #E9E4D5;
+    border-radius: 15px;
+}
+.interest-main {
+    padding: 15px 0;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    color: #163A24;
+}
+.interest-list {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #163A24;
+}
+.interest-success {
+    width: 353px;
+    height: 430px;
+    padding: 60px 55px;
+    background: #FBFAF7;
+    box-shadow: 5px 5px 20px #E9E4D5;
+    border-radius: 15px;
+}
+.uniquee {
+    margin-top: 100px;
+    padding: 90px 0;
+    background: #F2EFE6;
+    border-radius: 0px;
+    /* display: flex; */
+}
+.unique-easy {
+    /* padding-top: 50px; */
+    font-weight: 600;
+    font-size: 47px;
+    line-height: 54px;
+    text-align: center;
+    color: #163A24;
+}
+.unique-parag {
+    margin: 26px 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #163A24;
+}
+.unique-list {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.unique-item {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #163A24;
+}
+.unique-image {
+    width: 75px;
+    height: 35px;
+    margin-top: 30px;
+}
+.btn {
+    margin-top: 30px;
+    margin-left: 500px;
+    justify-content: center;
+    width: 244px;
+    height: 52px;
+    background: #198C36;
+    border-radius: 160px;
+}
+.btn-text {
+    padding-top: 15px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FBFAF7;
+}
+.btn a {
+    text-decoration: none;
+}
+.circle-image {
+    position: absolute;
+    right: 120px;
+    top: 870px;
+}
